@@ -1565,3 +1565,11 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.manutening {
+  margin-top: 100px;
+  width: 90vw;
+  height: 50vh;
+  text-align: center;
+  margin-left: 100px;
+}
